@@ -18,9 +18,9 @@ jobs:
         gulp
 
     - name: Deploy
-      uses: coryallegory/github-pages-deploy-action@dev
+      uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         ACCESS_TOKEN: ${{ secrets.REPO_PUSH_KEY }}
         BRANCH: gh-pages
         FOLDER: dist
-        REMOTE_REPOSITORY: coryallegory/thunderroadracing
+        REPOSITORY_NAME: coryallegory/thunderroadracing
