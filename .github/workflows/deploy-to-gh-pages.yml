@@ -1,0 +1,26 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+
+    - name: Build
+      run: |
+        npm install
+        gulp
+
+    - name: Deploy
+      uses: coryallegory/github-pages-deploy-action@dev
+      with:
+        ACCESS_TOKEN: ${{ secrets.REPO_PUSH_KEY }}
+        BRANCH: gh-pages
+        FOLDER: dist
+        REMOTE_REPOSITORY: coryallegory/thunderroadracing

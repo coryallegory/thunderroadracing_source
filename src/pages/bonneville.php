@@ -1,0 +1,65 @@
+
+<?php
+	// change title and crumbspath as appropriate
+	$title = "Bonneville Salt Flats, Utah - Race Day";
+	$crumbspath = "<a href=\"index.php\">Thunder Road Racing</a> &#187; " . $title;
+?>
+
+<?php include("header.php"); ?>
+
+
+	<div style="text-align: center;"><a href="bonneville/21.jpg"><img src="bonneville/thumbs/thumb_21.jpg" width="250" height="151"></a></div>
+	<p />
+	After the near fatal <a href="testrun3.php">3rd test run</a> in Winnipeg in July, the speedy Indian Scout was repaired, re-tuned and sitting ready to begin its adventure at the Bonneville Salt Flats. While Siggi, Gary and Ross headed off to the Antique Motorcycle Club of America's Davenport, Iowa swap meet, Ted and his wife Holly loaded up the Scout and crossed the border into the States.
+	<p />
+	In Davenport, Siggi and Ross spent all of their money on Indian parts before returning home to the drudgery of their jobs, but Gary left Davenport early in order to meet up with Ted to complete the Thunder Road Racing Team pit crew.
+	<p />
+	<div style="text-align: center;"><a href="bonneville/322.jpg"><img src="bonneville/thumbs/thumb_32.jpg" width="250" height="145"></a></div>
+	<p />
+
+	Camp was set up on the Salt Flats on Sunday with no expense spared. A new plastic tarp, a cooler and some tools were laid out - the Thunder Road Racing Team was ready to go!
+	<p />
+	The AMA record is based on the average time of two one-mile runs. From the camp, situated in the middle of the five mile course, the Indian was towed by truck, two and a half miles to the staging area. From there, Ted needed two miles to get the bike up to full speed and then he had to hold it, chin on tank, for another mile straight. All of this took place in 100 degree heat, at high elevation, racing on salt. It's not only a test of machine but also of the endurance of the rider. Not easy to do on a short-framed, flathead, pre-war motorcycle.
+
+	<p />
+	<div style="text-align: center;"><a href="bonneville/42.jpg"><img src="bonneville/thumbs/thumb_42.jpg" width="250" height="158"></a></div>
+
+	<p />
+
+	Then Ted had to turn around, come all the way back for the second mile-long timed run. It was on this second run that disaster struck. The keepers on the valves let go, forcing Ted back on the long 5-mile return tow to the pits. Entry #641 was in trouble.
+	<p />
+	Gary and Ted proceeded to tear down the top end, load up the truck and head into town. Monday, Day One, was not a success. The first welder they approached to weld up the keepers (a racing trick from the old days, by the way) did not the have the time, nor the interest to help out the team. A visit to a second welder also met with a lack of success as the man did not believe in racing on the Salt Flats. At last, Welder #3 was not only sympathetic but also interested in the racing of such a motorcycle, allowing Ted to perform the welding task without asking for any remuneration. Once finished, Gary gave the owner $20 and a very relieved 'Thanks', and they were back in business. In the blazing sun, it was back to the pits to put the little Indian back together. The welding of the keepers tactic proved to do the trick.
+	<p />
+	<div style="border: solid black 1px; padding: 10px;"><div style="text-decoration: underline;">Note from Gary:</div> "Because the keepers and valve stems were fatigued and worn to the point of no longer being able to keep the lower valve collars from sliding right off the ends of the valves (resulting in zero valve spring pressure on the valves),  we welded the lower valve collars onto the valve stems.  Not an elegant solution,  but the only practical one that would get us another shot at a record...barring the sudden appearance of an Indian dealer in the Eastern Utah / Western Nevada desert that could supply us with 1938 30.50 valves, lower collars and keepers before sunrise, Tuesday!"</div>
+	<p />
+
+	<div style="text-align: center;"><a href="bonneville/35.jpg"><img src="bonneville/thumbs/thumb_35.jpg" width="250" height="122"></a></div>
+
+	<p />
+
+	Meanwhile all the crews at Bonneville were rooting for the little Flathead. It seemed everyone loved the design and the aspect of a near 70 year old machine racing on the track. Seasoned racers offered advice - keep the toes up on the pegs for less wind resistance; keep the chin down and look down at the ground for as long as possible also added for more streamlining.
+	Ted developed his own racing style. He put his face flat down on the tank, tucked up behind the tach, and using peripheral vision he looked straight down at the ground keeping the track cones 12 - 15" from the front wheel while cranking the throttle wide open.
+
+	<p />
+	<div style="text-align: center;"><a href="bonneville/39.jpg"><img src="bonneville/thumbs/thumb_39.jpg" width="250" height="153"></a></div>
+
+	<p />
+	Eureka! One run in the 79s and another run in the high 78s added up to a new AMA record(!) for modified vintage gasoline 500cc motorcycles. Considering the biggest fear was that the engine itself might explode, not because of mechanical engineering and rebuilding, but due to metal fatigue because of its age, the team decided to put the 30.50 Indian up on its stand in the marshalling area and allow the marshals to tear the engine down and inspect and measure to secure the record.
+
+	<p />
+	<div style="text-align: center;"><a href="bonneville/29.jpg"><img src="bonneville/thumbs/thumb_29.jpg" width="250" height="217"></a></div>
+	<p />
+
+	After the inspection, it was confirmed that the Indian met all rules and regulations laid out by the racing head honchos. Gary, Ted and Holly enjoyed the sights and sounds of Bonneville for another day and then packed up the Junior Scout and headed back to Canada. All that is left now is confirmation on the record.
+	<p />
+
+	<div style="text-align: center; font-style: italic;">"Long live Flatheads."</div>
+
+
+	<p />
+
+	<div style="width: 49%; float: left"><a href="testrun3.php">&#171; Test Run #3</a></div>
+	<div style="width: 49%; float: left; text-align: right;"><a href="celebration.php">Record Celebration &#187;</a></div>
+
+
+<?php include("footer.php"); ?>

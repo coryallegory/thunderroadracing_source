@@ -1,0 +1,12 @@
+{
+  "name": "thunderroadracing",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-rename": "^2.0.0"
+  }
+}

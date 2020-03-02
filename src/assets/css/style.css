@@ -1,0 +1,275 @@
+/* DEFAULT SETTINGS */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0;
+padding: 0;
+border: 0;
+outline: 0;
+font-weight: inherit;
+font-style: inherit;
+font-size: 100%;
+font-family: inherit;
+vertical-align: baseline;
+}
+/* remember to define focus styles! */
+:focus {
+outline: 0;
+}
+body {
+line-height: 1.5em;
+color: black;
+background: white;
+}
+ol, ul {
+list-style: none;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+border-collapse: separate;
+border-spacing: 0;
+}
+caption, th, td {
+text-align: left;
+font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+content: "";
+}
+blockquote, q {
+quotes: "" "";
+}
+
+#scroll {
+	position:absolute;
+	top:0;
+	bottom:-0.1px;
+	width:1em;
+	z-index:-1;
+}
+
+p {
+	margin-top: 1em;
+}
+
+hr {
+	border: 0px;
+	color: black;
+	background-color: black;
+	height: 1px;
+	width: 100%;
+}
+
+/*
+############################################################
+*/
+
+
+body {
+	background-color: #9B7A53;
+	background-image: url(../img/bg/bikebg.gif);
+	text-align: center;
+	font-family: Verdana, Tahoma, Sans-Serif;
+	color: #333333;
+	font-size: 14px;
+}
+
+#container {
+	margin: auto;
+	overflow: hidden;
+	background-color: white;
+	width: 770px;
+	border: solid #332215;
+	border-width: 0px 5px 0px 5px;
+	text-align: left;
+}
+
+#banner {
+	margin: 10px 22px 15px 22px;
+	text-align: center;
+	font-size: 36px;
+	border-top: solid black 3px;
+}
+
+#middle {
+	overflow: hidden;
+	margin: 0px 15px 15px 15px;
+}
+
+#navcol {
+	float: left;
+  	color: #666666;
+}
+
+.navhead {
+	padding: 5px 10px 5px 10px;
+	background: url(../img/menubg.gif) top left repeat-x;
+	color: white;
+	margin-bottom: 10px;
+	font-weight: bolder;
+}
+
+#info {
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	background: #EEEEEE;
+}
+
+.infoitem {
+	color: #555555;
+	margin: 0px 10px 0px 15px;
+}
+.infoitem a:link, div.infoitem a:active, div.infoitem a:visited {
+	color: #555555;
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+.infoitem a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#menu {
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	background: #EEEEEE;
+}
+
+.menutitle {
+	color: #666666;
+	margin: 10px 10px 0px 10px;
+}
+.menuitem {
+	color: #555555;
+	margin: 0px 10px 0px 15px;
+}
+.menuitem a:link, div.menuitem a:active, div.menuitem a:visited {
+	color: #555555;
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+.menuitem a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#links {
+	background: #EEEEEE;
+	padding-bottom: 5px;
+}
+#links img {
+	border: solid black 1px;
+	margin: 0px 10px 10px 10px;
+}
+
+
+
+#maincol {
+	float: right;
+	width: 520px;
+}
+
+
+#crumbs {
+	padding: 5px;
+	text-align: left;
+	background: url(../img/crumbs.gif) top left repeat-x;
+  	color: #999999;
+}
+#crumbs a:link, #crumbs a:active, #crumbs a:visited {
+	color: #999999;
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+#crumbs a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#title {
+	padding: 1em 0em 0.5em 0em;
+	font-size: 24px;
+  	color: #3399CC;
+}
+
+#content {
+	margin-bottom: 25px;
+}
+#content a:link, #content a:active, #content a:visited {
+	color: #333333;
+	text-decoration: underline;
+}
+#content a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#content img {
+	border: solid black 1px;
+}
+
+
+#footer {
+	overflow: hidden;
+	margin: 10px;
+	padding: 5px 10px 5px 10px;
+	font-size: 11px;
+  	color: #666666;
+  	background: url(../img/footer.gif) left top repeat-x;
+}
+#footer a:link, #footer a:active, #footer a:visited {
+	color: #555555;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}	
+div#lfoot {
+	float: left;
+}
+div#rfoot {
+	float: right;
+}
+
+
+/*
+############################################################
+*/
+
+.newshead {
+	color: #3399CC;
+	font-weight: bolder;
+	margin-top: 1.5em;
+}
+
+
+.caption {
+	font-size: 11px;
+  	color: #555555;
+}
+
+.msg {
+	width: 400px;
+	overflow: hidden;
+	text-align: right;
+}
+.msg_label {
+	text-align: right;
+	float: left;
+	width: 125px;
+}
+.msg_field input, .msg_field textarea {
+	width: 260px;
+}
+.msg_send {
+	text-align: right;
+	margin-top: 5px;
+}
