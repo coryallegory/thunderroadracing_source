@@ -1,5 +1,5 @@
 const gulp = require('gulp');
-const handlebars = require('gulp-handlebars');
+const handlebars = require('gulp-compile-handlebars');
 const rename = require('gulp-rename');
 const del = require('del');
 
